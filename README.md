@@ -20,6 +20,7 @@ Storing statistical learning course experimental project report and codes
 Free code experimentation regarding coding foundation and datascience
 Other objectives to be added
 
+Expreimental Financial Visualizer: https://stevenfromunimimiedse.github.io/All_In_One_Website/
 <!--
 **StevenFromUnimiMIEDSE/stevenfromunimimiedse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,5 +42,5 @@ Storing statistical learning course experimental project report and codes
 Free code experimentation regarding coding foundation and datascience
 Other objectives to be added
 
-Expreimental Financial Visualizer: https://stevenfromunimimiedse.github.io/All_In_One_Website/
+
 -->
